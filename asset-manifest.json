@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Restaurant-Website/static/css/main.77e63665.css",
+    "main.js": "/Restaurant-Website/static/js/main.b7968386.js",
+    "static/media/meals.jpg": "/Restaurant-Website/static/media/meals.57623fa950e68739a0dc.jpg",
+    "index.html": "/Restaurant-Website/index.html",
+    "main.77e63665.css.map": "/Restaurant-Website/static/css/main.77e63665.css.map",
+    "main.b7968386.js.map": "/Restaurant-Website/static/js/main.b7968386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e63665.css",
+    "static/js/main.b7968386.js"
+  ]
+}
